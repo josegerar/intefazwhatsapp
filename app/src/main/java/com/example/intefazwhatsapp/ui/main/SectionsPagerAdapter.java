@@ -33,13 +33,13 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
         Fragment fragment = null;
         switch (position){
             case 0:
-                fragment = new FragmentChat();
+                fragment = new FragmentChat(mContext);
                 break;
             case 1:
-                fragment = new FragmentEstados();
+                fragment = new FragmentEstados(mContext);
                 break;
             case 2:
-                fragment = new FragmentLLamadas();
+                fragment = new FragmentLLamadas(mContext);
         }
         return fragment;
     }
