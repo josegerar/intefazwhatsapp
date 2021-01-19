@@ -3,4 +3,11 @@
     <string name="menu_action_buscar">Buscar</string>
     <string name="menu_action_nuevo">Nuevo</string>
     <string name="menu_action_config">Config</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="llamadas">LLamadas</string>
+    <string name="chats">Chats</string>
+    <string name="estados">Estados</string>
 </resources>
